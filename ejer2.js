@@ -9,4 +9,4 @@ function cuadrado() {
 
     document.getElementById("area").value = area;
     document.getElementById("perimetro").value = perimetro;
-}
+} //gkdfjdkskd
